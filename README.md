@@ -11,3 +11,4 @@ Want your own strategy checked the same way, or your rules coded into your own b
 
 | Post | Topic | Resource |
 |---|---|---|
+| **TC-069** | `BOT` | Turning your setup into a bot? Know these rules first. | [Open](./posts/tc_069_bot/) |
